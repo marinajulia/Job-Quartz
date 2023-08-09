@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/dotnetcore,csharp,visualstudio,visualstudiocode,aspnetcore
-# Edit at https://www.toptal.com/developers/gitignore?templates=dotnetcore,csharp,visualstudio,visualstudiocode,aspnetcore
+# Created by https://www.toptal.com/developers/gitignore/api/dotnetcore,visualstudio,visualstudiocode,csharp,aspnetcore
+# Edit at https://www.toptal.com/developers/gitignore?templates=dotnetcore,visualstudio,visualstudiocode,csharp,aspnetcore
 
 ### ASPNETCore ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -726,4 +726,4 @@ obj/
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/dotnetcore,csharp,visualstudio,visualstudiocode,aspnetcore
+# End of https://www.toptal.com/developers/gitignore/api/dotnetcore,visualstudio,visualstudiocode,csharp,aspnetcore
