@@ -1,3 +1,4 @@
+
 # Created by https://www.toptal.com/developers/gitignore/api/csharp,dotnetcore,aspnetcore
 # Edit at https://www.toptal.com/developers/gitignore?templates=csharp,dotnetcore,aspnetcore
 
@@ -273,7 +274,7 @@ __pycache__/
 
 ### Csharp ###
 ##
-## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
 *.rsuser
@@ -381,6 +382,9 @@ coverage*.info
 #!**/[Pp]ackages/repositories.config
 # NuGet v3's project.json files produces more ignorable files
 
+# Nuget personal access tokens and Credentials
+# nuget.config
+
 # Microsoft Azure Build Output
 
 # Microsoft Azure Emulator
@@ -434,15 +438,6 @@ ServiceFabricBackup/
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
 
-# Visual Studio 6 auto-generated project file (contains which files were open etc.)
-*.vbp
-
-# Visual Studio 6 workspace and project file (working project files containing files to include in project)
-*.dsw
-*.dsp
-
-# Visual Studio 6 technical files
-
 # Visual Studio LightSwitch build output
 
 # Paket dependency manager
@@ -487,9 +482,6 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-
-# Visual Studio History (VSHistory) files
-.vshistory/
 
 # BeatPulse healthcheck temp database
 healthchecksdb

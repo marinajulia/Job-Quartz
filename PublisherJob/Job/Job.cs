@@ -29,7 +29,6 @@ namespace PublisherJob.Job
             {
                 ProcessForecasts(user);
             }
-
             return Task.CompletedTask;
         }
 
