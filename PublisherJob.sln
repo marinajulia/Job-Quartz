@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PublisherJob", "PublisherJob\PublisherJob.csproj", "{EA711BF5-B079-4BF1-AE52-52C66837C1A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{6A46B9C8-BD49-49D1-B7AF-4B5AD524BE5B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PublisherJobInfra", "PublisherJobInfra\PublisherJobInfra.csproj", "{02A04ADD-F678-4CF4-A4C8-23235651C87C}"
 EndProject
